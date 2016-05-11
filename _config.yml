@@ -1,8 +1,8 @@
 # Site settings
-title: Jason 
-SEOTitle: 清的博客
-header-img: img/home-bg.jpg
-email: yangenqings@gmail.com
+title: "Jason" 
+SEOTitle: "清的博客"
+header-img: "img/home-bg.jpg"
+email: "yangenqings@gmail.com"
 description: "Jason的博客"
 keyword: "Jason 博客, 个人网站, 互联网, PHP，技术"
 url: "http://eqing.me"  # your host, for absolute URL
@@ -62,7 +62,7 @@ ga_domain: eqing.me
 
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+sidebar: false                           # whether or not using Sidebar.
 sidebar-about-description: "懒癌"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
