@@ -1,5 +1,5 @@
 # Site settings
-title: 
+title: Jason 
 SEOTitle: 清的博客
 header-img: img/home-bg.jpg
 email: yangenqings@gmail.com
@@ -77,6 +77,6 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        'jaylee': 'www.jaylee.cc'
+        'title':'jaylee', 'href':'www.jaylee.cc'
     }
 ]
