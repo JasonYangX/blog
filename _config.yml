@@ -77,6 +77,6 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        'title':'jaylee', 'href':'www.jaylee.cc'
+        'title':'jaylee', 'href':'http://www.jaylee.cc'
     }
 ]
