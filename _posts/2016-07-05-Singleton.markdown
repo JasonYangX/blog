@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "PHP设计模式之单例模式"
-subtitle:   "PHP设计模式之单例模式"
+subtitle:   ""
 date:       2016-07-5 12:00:00
 author:     "Jason"
 header-img: "img/post-bg-2015.jpg"
